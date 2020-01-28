@@ -1,0 +1,1 @@
+### Write a function that takes a number and return whether it is even or not

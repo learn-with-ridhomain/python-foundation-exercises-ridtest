@@ -1,0 +1,1 @@
+### Write a function that takes a number and return true if it's a prime number

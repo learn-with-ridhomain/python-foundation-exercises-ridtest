@@ -1,0 +1,1 @@
+### Write a function named median which take 3 numbers and return the median
